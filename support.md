@@ -31,3 +31,4 @@ A. 端末内のデータも削除されます。事前にバックアップを�
 ## 関連リンク
 
 - [プライバシーポリシー](./index.html)
+- [App Store](https://apps.apple.com/jp/app/hop-pale/id6830048890)
